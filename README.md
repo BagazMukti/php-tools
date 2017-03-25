@@ -1,3 +1,3 @@
 # php-tools
- # some tools by bagaz
- # contact: bagaz@null.net
+ Some tools by Bagaz
+ Contact: bagaz@null.net
