@@ -1,3 +1,8 @@
 # php-tools
- Some tools by Bagaz
- Contact: bagaz@null.net
+
+* * *
+
+Just simple tools with php lang  
+hope you like this..  
+
+Contact: bagaz@null.net
